@@ -14,7 +14,7 @@
 
 ### Olá, meu nome é Leon Elvas !
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=Leon&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <p>Trabalhando como {estudante}<br/> Eu sou desenvolvedor {Leon}</p>
 
