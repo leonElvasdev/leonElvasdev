@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+## :sparkles: :laughing: :sparkles:
 
 ### olá! Eu me chamo Leon Elvas, sou estuante de ensino médio técnico de desenvolvimento de sistema 
 ##### Pronomes: ele/dele 
