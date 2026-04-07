@@ -4,7 +4,7 @@ Sou estudante do ensino médio técnico em Desenvolvimento de Sistemas.
 
 ## Habilidades
 - Linguagens: Python, Java, HTML, CSS, JavaScript
-- Ferramentas: VS Code, GitHub, onecomplier
+- Ferramentas: VS Code, GitHub, Onecomplier
 
 **Pronome:** ele/dele  
 **Atualmente aprendendo:** Desenvolvimento de Sistemas  
