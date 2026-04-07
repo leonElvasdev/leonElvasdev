@@ -1,12 +1,16 @@
-### Hi there 👋
+# Olá, eu sou Leon 👋
 
-### olá! Eu me chamo Leon Elvas, sou estuante de ensino médio técnico de desenvolvimento de sistema 
-##### Pronomes: ele/dele 
-##### Atualmente estou aprendendo Desivolvimento de Sistema 
-##### Curiosidade: gosto de gatos e filmes de ação
-##### Atualmente estou trabalhando em nada 
-##### Pergunte-me sobre a Saiki kasuo 
-## :sparkles: :laughing: :sparkles:
+Sou estudante de ensino médio técnico em Desenvolvimento de Sistemas.
+
+## Habilidades
+- Linguagens: Python, Java, HTML, CSS, JavaScript
+- Ferramentas: VS Code, GitHub, onecomplier
+
+**Pronome:** ele/dele  
+**Atualmente aprendendo:** Desenvolvimento de Sistemas  
+**Curiosidades:** adoro gatos 🐱 e filmes de ação 🎬  
+
+✨ Projetos em andamento | Sempre buscando evoluir ✨
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=leonElvasdev&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
