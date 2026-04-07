@@ -1,6 +1,6 @@
 # Olá, eu sou Leon 👋
 
-Sou estudante de ensino médio técnico em Desenvolvimento de Sistemas.
+Sou estudante do ensino médio técnico em Desenvolvimento de Sistemas.
 
 ## Habilidades
 - Linguagens: Python, Java, HTML, CSS, JavaScript
